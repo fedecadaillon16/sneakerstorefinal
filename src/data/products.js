@@ -1,5 +1,4 @@
-// src/data/products.js → EL ÚLTIMO, EL DEFINITIVO, EL QUE FUNCIONA EN TODAS LAS REDES ARGENTINAS
-
+// src/data/products.js 
 const products = [
   { id: 1, name: "Nike Air Force 1 '07",    brand: "Nike",   category: "nike",   price: 179999, image: "https://res.cloudinary.com/dkxb1uv2a/image/upload/v1730810000/af1.jpg" },
   { id: 2, name: "Nike Dunk Low Panda",     brand: "Nike",   category: "nike",   price: 189999, image: "https://res.cloudinary.com/dkxb1uv2a/image/upload/v1730810000/dunkpanda.jpg" },
